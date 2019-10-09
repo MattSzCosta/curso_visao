@@ -1,4 +1,4 @@
-# curso_visao
+# Curso de Visão Computacional
 
 
 ```docker build . -t opencv4_notebook -f ./Dockerfile ```
